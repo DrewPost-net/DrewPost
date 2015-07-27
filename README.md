@@ -10,7 +10,7 @@ access to the DrewPost repository please email me at djgraham@att.net.
 
 <h3>How I develop DrewPost</h3>
 A lot of the time I am not using a IDE to write the code. I have written alot of it in the code editor in cPanel and the HTML using<br>
-a real-time HTML editor located at <a href='//htmledit.squrefree.com'>htmledit.squarefree.com</a>. When I am using a IDE To write the<br>
+a real-time HTML editor located at <a href='http://htmledit.squarefree.com/'>htmledit.squarefree.com</a>. When I am using a IDE To write the<br>
 the code I use Microsoft WebMatrix on Windows and MaxCode on OS X.
 
 If you use the source of DrewPost in one of your projects please tell me(djgraham@att.net) so I can see what<br>
