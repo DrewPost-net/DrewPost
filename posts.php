@@ -16,7 +16,7 @@ foreach ($posts as $post) {
 <a href='./<?php echo $post->username; ?>' style='color: #3366CC;'> <img src='<?php
 $servername = "localhost";
 $username = "drewj_java";
-$password = "graham";
+$password = "";
 $dbname = "drewj_java";
 
 // Create connection
